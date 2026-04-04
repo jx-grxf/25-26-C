@@ -29,7 +29,7 @@ build/
 **/build/
 
 ##doc builds
-tmp
+tmp/
 
 # Übung folder
 Übung/
