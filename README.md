@@ -9,8 +9,7 @@ A collection of files, exercises, notes, and code from my first year at HTL wher
 ├── Hausübungen/
 ├── Schulstunden/
 ├── Tests/
-├── Theoriestunden/
-└── Übung/
+└── Theoriestunden/
 ```
 
 ## Notes
