@@ -27,3 +27,9 @@ output/
 **/output/
 build/
 **/build/
+
+##doc builds
+tmp
+
+# Übung folder
+Übung/
